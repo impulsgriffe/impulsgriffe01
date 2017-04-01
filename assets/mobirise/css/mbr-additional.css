@@ -715,6 +715,85 @@ a:hover {
   color: #fffffd;
   font-size: 46px;
 }
+#footer2-s .footer-list {
+  color: #74a3c7;
+}
+#footer2-s .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-s .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
+#footer2-s LI {
+  color: #fffffd;
+}
+#menu2-r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-r .navbar-toggler {
+  color: #fffffd;
+}
+#menu2-r .close-icon::before,
+#menu2-r .close-icon::after {
+  background-color: #fffffd;
+}
+#menu2-r .link,
+#menu2-r .dropdown-item {
+  color: #fffffd;
+  font-family: 'Libre Franklin', serif;
+}
+#menu2-r .link {
+  font-size: 0.8125rem;
+}
+#menu2-r .dropdown-item,
+#menu2-r .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu2-r .link:hover,
+#menu2-r .link:focus {
+  color: #c3ded7;
+}
+#menu2-r .dropdown-item:hover::before,
+#menu2-r .dropdown-item:focus::before {
+  background: #c3ded7;
+}
+#menu2-r .dropdown-item:hover,
+#menu2-r .dropdown-item:focus {
+  color: #fffffd;
+}
+#menu2-r .link[aria-expanded="true"],
+#menu2-r .dropdown-menu {
+  background: #3adcdc;
+}
+#menu2-r .nav-dropdown-sm .link:focus,
+#menu2-r .nav-dropdown-sm .link:hover,
+#menu2-r .nav-dropdown-sm .dropdown-item:focus,
+#menu2-r .nav-dropdown-sm .dropdown-item:hover {
+  background: #2ddada!important;
+}
+#menu2-r .navbar,
+#menu2-r .nav-dropdown-sm,
+#menu2-r .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-r .nav-dropdown-sm .dropdown-menu {
+  background: #3adcdc;
+}
+#menu2-r .bg-color.transparent .link {
+  color: #fffffd;
+  transition: none;
+}
+#menu2-r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-r .bg-color.transparent.opened .link:hover,
+#menu2-r .bg-color.transparent.opened .link:focus {
+  color: #c3ded7;
+}
+#menu2-r .link[aria-expanded="true"],
+#menu2-r .dropdown-item[aria-expanded="true"] {
+  color: #c3ded7!important;
+}
 #form3-n .card {
   background-color: transparent;
   box-shadow: none;
@@ -728,6 +807,20 @@ a:hover {
 }
 #form3-n .heading {
   background: #55d4b4;
+}
+#footer2-s .footer-list {
+  color: #74a3c7;
+}
+#footer2-s .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-s .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
+#footer2-s LI {
+  color: #fffffd;
 }
 #menu2-r .hide-buttons .nav-btn {
   display: none !important;
@@ -826,11 +919,90 @@ a:hover {
 
 
 
+#menu2-r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-r .navbar-toggler {
+  color: #fffffd;
+}
+#menu2-r .close-icon::before,
+#menu2-r .close-icon::after {
+  background-color: #fffffd;
+}
+#menu2-r .link,
+#menu2-r .dropdown-item {
+  color: #fffffd;
+  font-family: 'Libre Franklin', serif;
+}
+#menu2-r .link {
+  font-size: 0.8125rem;
+}
+#menu2-r .dropdown-item,
+#menu2-r .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu2-r .link:hover,
+#menu2-r .link:focus {
+  color: #c3ded7;
+}
+#menu2-r .dropdown-item:hover::before,
+#menu2-r .dropdown-item:focus::before {
+  background: #c3ded7;
+}
+#menu2-r .dropdown-item:hover,
+#menu2-r .dropdown-item:focus {
+  color: #fffffd;
+}
+#menu2-r .link[aria-expanded="true"],
+#menu2-r .dropdown-menu {
+  background: #3adcdc;
+}
+#menu2-r .nav-dropdown-sm .link:focus,
+#menu2-r .nav-dropdown-sm .link:hover,
+#menu2-r .nav-dropdown-sm .dropdown-item:focus,
+#menu2-r .nav-dropdown-sm .dropdown-item:hover {
+  background: #2ddada!important;
+}
+#menu2-r .navbar,
+#menu2-r .nav-dropdown-sm,
+#menu2-r .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-r .nav-dropdown-sm .dropdown-menu {
+  background: #3adcdc;
+}
+#menu2-r .bg-color.transparent .link {
+  color: #fffffd;
+  transition: none;
+}
+#menu2-r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-r .bg-color.transparent.opened .link:hover,
+#menu2-r .bg-color.transparent.opened .link:focus {
+  color: #c3ded7;
+}
+#menu2-r .link[aria-expanded="true"],
+#menu2-r .dropdown-item[aria-expanded="true"] {
+  color: #c3ded7!important;
+}
 #msg-box4-7 H1 {
   color: #434343;
 }
 #msg-box4-7 P {
   color: #434343;
+}
+#footer2-s .footer-list {
+  color: #74a3c7;
+}
+#footer2-s .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-s .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
+#footer2-s LI {
+  color: #fffffd;
 }
 #msg-box6-f .mbr-section-title {
   color: #fff;

@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 31,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -36,7 +36,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -132,14 +133,20 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Impulsgriffe</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Poster.html\" aria-expanded=\"false\">Poster</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bestellen.html\" aria-expanded=\"true\">Bestellen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Impulsgriffe</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Poster.html\" aria-expanded=\"false\">Poster</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bestellen.html\" aria-expanded=\"false\">Bestellen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header6",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header6-0",
           "_params": {
             "imageSize": 70,
@@ -162,7 +169,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "showArrow": true
           },
           "media": {
             "image": {
@@ -183,13 +190,7 @@
           },
           "title": "Willkommen<br> bei Impulsgriffe!",
           "text": "Auf Impulsgriffe finden Sie eine Reihe von Postern. Es sind alles Poster zu Jin Shin Jyutsu Themen. &nbsp;Jin Shin Jyutsu ist eine &nbsp;alte asiatische Heilkunst und hat &nbsp;in ihrer westlichen Übersetzung ihr eigenes für Neulinge ungewohntes Vokabular.<br> <br>Dies wird &nbsp;später erklärt und vorgesetellt. Für die heilende Wirkung &nbsp;ist dieses Vokabular zunächst vollkommen belanglos. Was zählt ist das Halten von bestimmten Feldern am Körper . Diese Felder heißen etwas sperrig und ungewohnt \"Sicherheitsenergieschlösser\".",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Poster.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Keine weitere Infos! -Bitte direkt zu den Postern!</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Poster.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Keine weitere Infos! -Bitte direkt zu den Postern!</a>"
         },
         {
           "_styles": {
@@ -347,6 +348,22 @@
             "Theme"
           ],
           "_name": "features22",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "#6ed9be",
+              "border-color": "#6ed9be"
+            },
+            ".heading-title": {
+              "font-size": "48px",
+              "color": "#fffffd"
+            },
+            ".card-title": {
+              "color": "#fffffd"
+            },
+            ".card-text": {
+              "color": "#fffffd"
+            }
+          },
           "_anchor": "features22-2",
           "_params": {
             "paddingTop": 1,
@@ -427,367 +444,69 @@
               "link": "https://mobirise.com",
               "color": "#fff"
             }
-          },
-          "_styles": {
-            ".card .mbr-iconfont": {
-              "background": "#6ed9be",
-              "border-color": "#6ed9be"
-            },
-            ".heading-title": {
-              "font-size": "48px",
-              "color": "#fffffd"
-            },
-            ".card-title": {
-              "color": "#fffffd"
-            },
-            ".card-text": {
-              "color": "#fffffd"
-            }
           }
-        }
-      ]
-    },
-    "Poster.html": {
-      "settings": {},
-      "components": [
+        },
         {
-          "_styles": {
-            "H1": {
-              "color": "#434343"
-            },
-            "P": {
-              "color": "#434343"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-7",
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            "LI": {
+              "color": "#fffffd"
+            }
+          },
+          "_anchor": "footer2-q",
           "_params": {
-            "iconsBorder": true,
-            "iconsColor": "#434343",
-            "iconsNumber": "two",
-            "imageSize": 50,
-            "containerColor1": "#094587",
-            "containerColor2": "#3adcdc",
-            "paddingTop": "2",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
-            "bgColor": "#3adcdc",
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#094587",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
             "showIcons": true
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/i-z-s-vor-dina0-sel26-poster-img-20170217-wa0022-fordemoinamazon-784x752.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Poster von Impulsgriffe<br>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "business-manwoman",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://www.amazon.de",
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "text1": "1. Poster mit Sicherheitsenergieschlössern/ Meisterfeldern",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "two-fingersdrag2",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://www.amazon.de/Shin-Jyutsu-Selbsthilfe-Fingern-Neu-%C3%9Cberarbeitet/dp/1311557970/ref=sr_1_4?ie=UTF8&qid=1491061251&sr=8-4&keywords=vitalschutz",
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "text2": "2. Poster für die Selbsthilfe mit Fingern und Organstromankergriffen",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "timer",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
-        },
-        {
-          "_inherit": "msg-box2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "line-height": "1"
-            },
-            ".round-text": {
-              "color": "#fffffd",
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "H1": {
-              "font-size": "48px",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-f",
-          "_params": {
-            "iconsBorder": true,
-            "iconsColor": "#ffffff",
-            "imageSize": 50,
-            "iconsNumber": "three",
-            "contentAlign": "left",
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
-            "bgColor": "#3adcdc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x1500.jpg",
-            "showTitle": true,
-            "showIcons": true,
-            "showText": true
-          },
-          "title": "Poster mit Sicherheits-<br>energieschlössern/Meisterfeldern&nbsp;",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "business-woman",
-              "family": "icon54",
-              "active": true,
-              "link": "https://www.amazon.de/Jin-Shin-J-Vitalschutz-Selbsthilfe-mit-Fingern-Din-A3/dp/1311556605/ref=sr_1_10?ie=UTF8&qid=1491061833&sr=8-10&keywords=vitalschutz",
-              "newWindow": true,
-              "color": "#ffffff"
-            }
-          },
-          "text1": "Sie zeigen die Nummer , &nbsp;die Lage im Körper und die Farbe",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "business-manwoman",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://www.amazon.de/Jin-Shin-J-Vitalschutz-Selbsthilfe-mit-Fingern-Din-A3/dp/1311556605/ref=sr_1_10?ie=UTF8&qid=1491061833&sr=8-10&keywords=vitalschutz",
-              "newWindow": true,
-              "color": "#ffffff"
-            }
-          },
-          "text2": "Sie zeigen den Namen und die Bedeutung, bzw. die Wirkung und Qualität",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "business-man",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://www.amazon.de/Jin-Shin-J-Vitalschutz-Selbsthilfe-mit-Fingern-Din-A3/dp/1311556605/ref=sr_1_10?ie=UTF8&qid=1491061833&sr=8-10&keywords=vitalschutz",
-              "newWindow": true,
-              "color": "#ffffff"
-            }
-          },
-          "text3": "Sie zeigen effektive Griffe, meist für die Selbsthilfe und den Finger zum Öffnen des Feldes",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/26-jsj-meisterschloesser-als-weisse-sternpunkte-in-mann-nur-haut-mit-friedenslogo-26-03-17-for-print-02-jpg-lowq-f-patent-744x1052.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "line-height": "1"
-            },
-            ".round-text": {
-              "color": "#fffffd",
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "H1": {
-              "font-size": "48px",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-g",
-          "_params": {
-            "iconsBorder": true,
-            "iconsColor": "#ffffff",
-            "imageSize": 50,
-            "iconsNumber": "three",
-            "contentAlign": "left",
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/accordion1_2.jpg",
-            "bgColor": "#3adcdc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15004.jpg",
-            "showTitle": true,
-            "showIcons": true,
-            "showText": true
-          },
-          "title": "Poster für &nbsp;die Selbshilfe mit Fingern&nbsp;",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "open-hand",
-              "family": "icon54",
-              "active": true,
-              "link": "https://www.amazon.de/Jin-Shin-J-Vitalschutz-Selbsthilfe-mit-Fingern-Din-A3/dp/1311556605/ref=sr_1_10?ie=UTF8&qid=1491061833&sr=8-10&keywords=vitalschutz",
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "text1": "Sie zeigen die Zuordnung der Schlösser zu den Fingern und Emotionen und &nbsp;die Farbe der Schlösser. Ausserdem die Mudras des Fatigue-stroms",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "open-hand1",
-              "family": "icon54",
-              "active": true,
-              "link": "https://www.amazon.de/Jin-Shin-J-Vitalschutz-Selbsthilfe-mit-Fingern-Din-A3/dp/1311556605/ref=sr_1_10?ie=UTF8&qid=1491061833&sr=8-10&keywords=vitalschutz",
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "text2": "Sie zeigen die Zuordnung der Finger zu den Organen, die Ankergriffe zu den Organströmen und die Organuhr. &nbsp;&nbsp;",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "open-hand2",
-              "family": "icon54",
-              "active": true,
-              "link": "https://www.amazon.de/Jin-Shin-J-Vitalschutz-Selbsthilfe-mit-Fingern-Din-A3/dp/1311556605/ref=sr_1_10?ie=UTF8&qid=1491061833&sr=8-10&keywords=vitalschutz",
-              "newWindow": true,
-              "color": "#ffffff"
-            }
-          },
-          "text3": "Sie zeigen die Zuordnung der Tiefen zu den Fingern, die Schnellgriffe für die Tiefen, die nker-Zahlen der Tiefen, und die Ankergriffe für die Umkehr/Zunahme der Tiefen, sowie &nbsp;den &nbsp;Hauptzentral-strom, und die Schnellhilfen für die Betreuer und Vermittler",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/impg-finger-poster-von-alterbasis-neue-mcv-frau-as-23-03-17-01-for-druck-01verylowq-508x700.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          }
+          "heading": "Copyright 2017, Impulsgriffe.de",
+          "list1": "<a href=\"kontakt.html\">Kontakt</a>",
+          "list2": "Impressum",
+          "list3": "",
+          "list4": "",
+          "list5": "",
+          "list6": "",
+          "list7": "",
+          "list8": "",
+          "list9": "",
+          "list10": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
     "bestellen.html": {
       "settings": {
-        "title": "Bestellen"
+        "title": "Bestellen",
+        "order": 3
       },
       "components": [
         {
@@ -883,8 +602,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Impulsgriffe</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Poster.html\" aria-expanded=\"false\">Poster</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bestellen.html\" aria-expanded=\"true\">Bestellen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Impulsgriffe</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Poster.html\" aria-expanded=\"false\">Poster</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bestellen.html\" aria-expanded=\"false\">Bestellen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
         },
         {
           "title1": "What is Mobirise",
@@ -903,6 +622,20 @@
             "Theme"
           ],
           "_name": "features17",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "text-align": "center",
+              "color": "#fffffd",
+              "font-size": "46px"
+            }
+          },
           "_anchor": "features17-k",
           "_params": {
             "paddingTop": "2",
@@ -951,7 +684,7 @@
               "name": "shopping-bag",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=vitalschutz+&rh=i%3Aaps%2Ck%3Avitalschutz+",
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Meistergriffe&rh=i%3Aaps%2Ck%3AMeistergriffe",
               "size": 40,
               "newWindow": true,
               "color": "#ffffff"
@@ -965,7 +698,7 @@
               "name": "handshake",
               "family": "icon54",
               "active": true,
-              "link": "https://impulsgriffe.de",
+              "link": "kontakt.html",
               "size": 40,
               "color": "#ffffff",
               "newWindow": false
@@ -996,27 +729,14 @@
               "family": "MobiriseIcons"
             }
           },
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "_styles": {
-            ".card .mbr-iconfont": {
-              "color": "#fff",
-              "border-color": "#fff"
-            },
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "text-align": "center",
-              "color": "#fffffd",
-              "font-size": "46px"
-            }
-          }
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products."
         }
       ]
     },
     "kontakt.html": {
       "settings": {
-        "title": "Kontakt"
+        "title": "Kontakt",
+        "order": 4
       },
       "components": [
         {
@@ -1096,6 +816,660 @@
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
           "checkbox": "I agree to the <a href=\"http://mobirise.com\">terms</a>",
           "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Senden!</a>"
+        }
+      ]
+    },
+    "impressum.html": {
+      "settings": {
+        "title": "Impressum",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fffffd"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fffffd"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fffffd",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#c3ded7"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#c3ded7"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fffffd"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3adcdc"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2ddada!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3adcdc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fffffd",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c3ded7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c3ded7!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-r",
+          "_params": {
+            "bgColor": "#3adcdc",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#fffffd",
+            "fontHoverColor": "#c3ded7",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Impulsgriffe</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Poster.html\" aria-expanded=\"false\">Poster</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bestellen.html\" aria-expanded=\"false\">Bestellen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            "LI": {
+              "color": "#fffffd"
+            }
+          },
+          "_anchor": "footer2-s",
+          "_params": {
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#094587",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "rows": "1",
+            "showIcons": true
+          },
+          "heading": "Copyright 2017, Impulsgriffe.de",
+          "list1": "<a href=\"kontakt.html\">Kontakt</a>",
+          "list2": "Impressum",
+          "list3": "",
+          "list4": "",
+          "list5": "",
+          "list6": "",
+          "list7": "",
+          "list8": "",
+          "list9": "",
+          "list10": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-t",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Impressum",
+          "text": "Impressum<br>Angaben gemäß § 5 TMG:<br>Impuls Griffe<br>Von-Steubenstr. 69<br>48599 Gronau<br>Kontakt:<br>Telefon: 0176 9741 8686<br>E-Mail: impulsgriffe@gmail.com<br>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:<br>Impulsgriffe.de<br>Von-Steubenstr. 69<br>48599 Gronau<br> <br>Quelle: eRecht24.<br> <h2>Angaben gemäß § 5 TMG:</h2> <p>Impuls Griffe<br> Von-<br>Steubenstr. 69<br> 48599 Gronau</p> <br> <h2>Verantwortlich <br>für den Inhalt nach § 55 Abs. 2 RStV:</h2> <p>Impulsgriffe.de<br> Von-Steubenstr. 69<br> 48599 <br>Gronau</p> <p>&nbsp;</p> <p>Quelle: <em><a href=\"https://www.e-recht24.de\">eRecht24</a></em></p> <br> <br>Ihr Disclaimer<br><br>Haftung für Inhalte<br>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen <br>Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, <br>übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf <br>eine rechtswidrige Tätigkeit hinweisen.<br>Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen <br>bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer <br>konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir <br>diese Inhalte umgehend entfernen.<br>Haftung für Links<br>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. <br>Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten <br>Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum <br>Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der <br>Verlinkung nicht erkennbar.<br>Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer <br>Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links <br>umgehend entfernen.<br>Urheberrecht<br>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen <br>Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der <br>Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. <br>Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.<br>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter <br>beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine <br>Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden <br>von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Impulsgriffe</a>"
+        }
+      ]
+    },
+    "Poster.html": {
+      "settings": {
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            "H1": {
+              "color": "#434343"
+            },
+            "P": {
+              "color": "#434343"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#434343",
+            "iconsNumber": "three",
+            "imageSize": 50,
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#3adcdc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showIcons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/i-z-s-vor-dina0-sel26-poster-img-20170217-wa0022-fordemoinamazon-784x752.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Poster von Impulsgriffe<br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "business-manwoman",
+              "family": "iconsMind",
+              "active": true,
+              "link": "Poster.html#msg-box6-f",
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "text1": "1. Poster mit Sicherheits-<br>energieschlössern/ &nbsp;Meisterfeldern",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "two-fingersdrag2",
+              "family": "iconsMind",
+              "active": true,
+              "link": "Poster.html#msg-box6-g",
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "text2": "2. Poster für die Selbsthilfe mit Fingern und Organstrom-Ankergriffen",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "artboard",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com"
+            }
+          },
+          "text3": "Riesenposter in Din A0 und DinA1"
+        },
+        {
+          "_inherit": "msg-box2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fffffd",
+              "font-size": "14px",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H1": {
+              "font-size": "48px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-f",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "imageSize": 50,
+            "iconsNumber": "three",
+            "contentAlign": "left",
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "bgColor": "#3adcdc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x1500.jpg",
+            "showTitle": true,
+            "showIcons": true,
+            "showText": true
+          },
+          "title": "Poster mit Sicherheits-<br>energieschlössern/Meisterfeldern&nbsp;",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "business-woman",
+              "family": "icon54",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Vitalschutz",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "Sie zeigen die Nummer , &nbsp;die Lage im Körper und die Farbe",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "business-manwoman",
+              "family": "iconsMind",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Vitalschutz",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "Sie zeigen den Namen und die Bedeutung, bzw. die Wirkung und Qualität",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "business-man",
+              "family": "iconsMind",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Vitalschutz",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "Sie zeigen effektive Griffe, meist für die Selbsthilfe und den Finger zum Öffnen des Feldes",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/26-jsj-meisterschloesser-als-weisse-sternpunkte-in-mann-nur-haut-mit-friedenslogo-26-03-17-for-print-02-jpg-lowq-f-patent-744x1052.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fffffd",
+              "font-size": "14px",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H1": {
+              "font-size": "48px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-g",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "imageSize": 50,
+            "iconsNumber": "three",
+            "contentAlign": "left",
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/accordion1_2.jpg",
+            "bgColor": "#3adcdc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15002.jpg",
+            "showTitle": true,
+            "showIcons": true,
+            "showText": true
+          },
+          "title": "Poster für &nbsp;die Selbshilfe mit Fingern&nbsp;",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "open-hand",
+              "family": "icon54",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=vitalschutz+Selbsthilfe+Fingern&rh=i%3Aaps%2Ck%3Avitalschutz+Selbsthilfe+Fingern",
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "text1": "Sie zeigen die Zuordnung der Schlösser zu den Fingern und Emotionen und &nbsp;die Farbe der Schlösser. Ausserdem die Mudras des Fatigue-stroms",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "open-hand1",
+              "family": "icon54",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=vitalschutz+Selbsthilfe+Fingern&rh=i%3Aaps%2Ck%3Avitalschutz+Selbsthilfe+Fingern",
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "text2": "Sie zeigen die Zuordnung der Finger zu den Organen, die Ankergriffe zu den Organströmen und die Organuhr. &nbsp;&nbsp;",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "open-hand2",
+              "family": "icon54",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=vitalschutz+Selbsthilfe+Fingern&rh=i%3Aaps%2Ck%3Avitalschutz+Selbsthilfe+Fingern",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "Sie zeigen die Zuordnung der Tiefen zu den Fingern, die Schnellgriffe für die Tiefen, die nker-Zahlen der Tiefen, und die Ankergriffe für die Umkehr/Zunahme der Tiefen, sowie &nbsp;den &nbsp;Hauptzentral-strom, und die Schnellhilfen für die Betreuer und Vermittler",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fingerposter-oben-498x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fffffd",
+              "font-size": "14px",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H1": {
+              "font-size": "48px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-u",
+          "_params": {
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "imageSize": 50,
+            "iconsNumber": "two",
+            "contentAlign": "left",
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/accordion1_2.jpg",
+            "bgColor": "#3adcdc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15002.jpg",
+            "showTitle": true,
+            "showIcons": true,
+            "showText": true
+          },
+          "title": "Riesenposter in Din A0 und Din A1&nbsp;",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "artboard",
+              "family": "icon54",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Meistergriffe&rh=i%3Aaps%2Ck%3AMeistergriffe",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "Dieses Poster überzeugt durch seine Klarheit und Größe. Das Riesenformat Din A0 fühlt sich für den Betrachter fast lebensgroß an. Aufgrund der Vektortechnik sind alle Details scharf und deutlich. &nbsp;<br><br>In diesem Poster sind die 26 Felder mit ihren wichtigen Merkmalen illustriert: Ihre Lage im Körper, Farben, Namen, Bedeutungen und ihre Schnellhilfegriffe sind dargestellt. So kann es eine gute Lernhilfe sein. Kein langes Suchen in Büchern mehr, wenn man einen Direkt-Griff oder die Basisinformationen über ein Schloss sucht. Auch aus einigen Metern Entfernung sind alle Angaben noch gut zu lesen. <br><br>Daher eignet es sich perfekt für die Einführung der Schlösser in Kursen. &nbsp; Dieses Poster vereinfach das komplexe System der Schlösser und macht sie leicht erlernbar. &nbsp;Das Din A0 Poster ist 84 x 119 cm gross. Das ist riesig. Es handelt sich um das größte Din A Format. .Eine Augenweide für alle die längerfristig an Jin Shin Jyutsu interessiert sind. . ",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "artboard",
+              "family": "icon54",
+              "active": true,
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Meistergriffe&rh=i%3Aaps%2Ck%3AMeistergriffe",
+              "newWindow": true,
+              "color": "#f7da64"
+            }
+          },
+          "text2": "Die 26 Jin Shin Jyutsu Meisterschlösser und ihre Griffe -das Din A1 Extragroß-Poster! &nbsp;Das Großformat Din A1 fühlt sich für den Betrachter lebensnah an. Aufgrund der Vektortechnik sind alle Details scharf und deutlich. <br>&nbsp;In diesem Poster sind die 26 Felder mit ihren wichtigen Merkmalen illustriert: Ihre Lage im Körper, Farben, Namen, Bedeutungen und ihre Schnellhilfegriffe sind dargestellt. So kann es eine gute Lernhilfe sein. Kein langes Suchen in Büchern mehr, wenn man einen Direkt-Griff oder die Basisinformationen über ein Schloss sucht. Auch aus einiger Entfernung sind alle Angaben noch gut zu lesen. Dieses Poster zeigt die Lage, Namen und Qualitäten der Jin Shin Jyutsu Meisterschlösser eindrucksvoll. So sind sie leicht zu lernen. Gleich ob die Behandlung Jin Shin Jyutsu, Japanisches Heilströmen, Meistergriffe, vitalschutz, Impulsströmen, Rang Droel, oder Jin Shin Do genannt wird.. Das Din A1 Poster ist &nbsp;60 x 84 cm &nbsp;gross. &nbsp; Ein Augenweide für alle die längerfristig an Jin Shin Jyutsu interessiert sind",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "text3": "Sie zeigen effektive Griffe, meist für die Selbsthilfe und den Finger zum Öffnen des Feldes",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/i-z-s-vor-dina0-sel26-poster-img-20170217-wa0022-fordemoinamazon-784x752.jpg",
+              "link": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Meistergriffe&rh=i%3Aaps%2Ck%3AMeistergriffe",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
         }
       ]
     }

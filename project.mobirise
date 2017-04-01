@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "meistergriffe-impulsgriffe-landing-01",
-    "currentPage": "index.html",
+    "currentPage": "impressum.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -464,15 +464,16 @@
               "color": "#fff"
             },
             "LI": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "text-align": "right"
             }
           },
           "_anchor": "footer2-q",
           "_params": {
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -485,12 +486,12 @@
             "overlay": true,
             "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "rows": "1",
+            "rows": "2",
             "showIcons": true
           },
           "heading": "Copyright 2017, Impulsgriffe.de",
           "list1": "<a href=\"kontakt.html\">Kontakt</a>",
-          "list2": "Impressum",
+          "list2": "<a href=\"impressum.html\">Impressum</a>",
           "list3": "",
           "list4": "",
           "list5": "",
@@ -749,15 +750,16 @@
               "color": "#fff"
             },
             "LI": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "text-align": "right"
             }
           },
           "_anchor": "footer2-s",
           "_params": {
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -770,12 +772,12 @@
             "overlay": true,
             "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "rows": "1",
+            "rows": "2",
             "showIcons": true
           },
           "heading": "Copyright 2017, Impulsgriffe.de",
           "list1": "<a href=\"kontakt.html\">Kontakt</a>",
-          "list2": "Impressum",
+          "list2": "<a href=\"impressum.html\">Impressum</a>",
           "list3": "",
           "list4": "",
           "list5": "",
@@ -986,15 +988,16 @@
               "color": "#fff"
             },
             "LI": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "text-align": "right"
             }
           },
           "_anchor": "footer2-s",
           "_params": {
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1007,12 +1010,12 @@
             "overlay": true,
             "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "rows": "1",
+            "rows": "2",
             "showIcons": true
           },
           "heading": "Copyright 2017, Impulsgriffe.de",
           "list1": "<a href=\"kontakt.html\">Kontakt</a>",
-          "list2": "Impressum",
+          "list2": "<a href=\"impressum.html\">Impressum</a>",
           "list3": "",
           "list4": "",
           "list5": "",
@@ -1145,15 +1148,16 @@
               "color": "#fff"
             },
             "LI": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "text-align": "right"
             }
           },
           "_anchor": "footer2-s",
           "_params": {
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1166,12 +1170,12 @@
             "overlay": true,
             "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "rows": "1",
+            "rows": "2",
             "showIcons": true
           },
           "heading": "Copyright 2017, Impulsgriffe.de",
           "list1": "<a href=\"kontakt.html\">Kontakt</a>",
-          "list2": "Impressum",
+          "list2": "<a href=\"impressum.html\">Impressum</a>",
           "list3": "",
           "list4": "",
           "list5": "",
@@ -1423,10 +1427,12 @@
               "name": "artboard",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com"
+              "link": "Poster.html#msg-box6-u",
+              "newWindow": false,
+              "color": "#ffffff"
             }
           },
-          "text3": "Riesenposter in Din A0 und DinA1"
+          "text3": "3. Riesenposter in Din A0 und DinA1"
         },
         {
           "_tags": [
@@ -1446,15 +1452,16 @@
               "color": "#fff"
             },
             "LI": {
-              "color": "#fffffd"
+              "color": "#fffffd",
+              "text-align": "right"
             }
           },
           "_anchor": "footer2-s",
           "_params": {
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1467,12 +1474,12 @@
             "overlay": true,
             "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "rows": "1",
+            "rows": "2",
             "showIcons": true
           },
           "heading": "Copyright 2017, Impulsgriffe.de",
           "list1": "<a href=\"kontakt.html\">Kontakt</a>",
-          "list2": "Impressum",
+          "list2": "<a href=\"impressum.html\">Impressum</a>",
           "list3": "",
           "list4": "",
           "list5": "",

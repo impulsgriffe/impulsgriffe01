@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 41,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -175,7 +175,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/impulsgriffe-logo-25-03-17-wohl-fertig-alles-eine-ebene-ungruppiert.svg",
+              "src": "@PROJECT_PATH@/assets/images/impulsgriffe-logo-quer-02-04-02-try-impulse-nur-konturen-01-ipulse-auf-3.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -193,80 +193,426 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Poster.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Keine weitere Infos! -Bitte direkt zu den Postern!</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "font-size": "48px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-1",
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-11",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "containerColor1": "#19b68f",
-            "containerColor2": "#446494",
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_5.jpg",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#000000",
-            "contentAlign": "center",
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "showArrow": false
           },
-          "title": "Sicherheitsenergieschlösser",
-          "text": "Sicherheitsenergieschlösser ist die deutsche Übersetzung des englischen Begriffes \"safety energy lock\" Auch im Englischen ist dies ein Kunstwort. Mary Burmeister hat es geschaffen. Mary Burmeister hat in der zweiten Hälfte des letzten Jahrhunderts Jin Shin Jyutsu von Japan in den Westen gebracht. Nach Jahren des Studiums begann sie es zu verbreiten, zu lehren &nbsp;und es im Westen publik zu machen. &nbsp; Sie mußte um Mißverständnisse zu vermeiden für viele eigentlich in westlichen Sprachen nicht vorhandene Begriffe neue Bezeichnungen entwickeln. So auch Sichherheitsenergieschlösser. <br><br>Ein schwieriges Wort aber es beschreibt, was sie sind: Es sind Felder die aus Sicherheitsgründen, also wenn Körper oder Geist in Mitleidenschaft gezogen werden, &nbsp;sich verschliessen. Sie verschliessen sich &nbsp;um den Prozess des Schädigens zu unterbrechen. Deswegen ist eine Bezeichnungs-Variante für diesen Vorgang auch \"Vitalschutz\" . Die wichtigsten , die vitalen Funktionen von Körper , Geist und Seele werden durch die Sicherheitsenergieschlösser geschüzt. &nbsp;In jedem Menschen sind jeweils rechts und links 26 Sicherheitsenergieschlösser paarig angelegt, &nbsp;also insgesamt 52. &nbsp;Jedes der &nbsp;Schlösser oder Felder hat bestimmte Aufgaben und Qualitäten, hat bestimmte Impulse die von ihm ausgehen. &nbsp; Deswegen werden hier &nbsp;Sicherheitsenergieschlösser der Einfachheit halber Impulsfelder genannt. &nbsp;Weil sie in diesen Qualitäten jeweils die Aufseher, Betreuer oder Meister sind kann man sie auch als Meisterfelder bezeichnen. <br><br>&nbsp;Die Heilwirkung ergibt sich aus dem Halten, dem Berühren dieser Felder &nbsp;. Das Entscheidende ist das Halten, das Berühren, nicht das Wissen in e rster Linie. &nbsp;Das Wissen kann perfekt sein, aber ohne das Halten, das &nbsp;Berühren bleibt es nahezu wirkungslos. Dies gilt insbesondere für einen stark in Mitleidenschaft &nbsp;gezogenen Körper, Geist oder die Seele.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>"
-        },
-        {
-          "_styles": {
-            "H1": {
-              "color": "#fffffd",
-              "font-size": "48px"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/obenkopf-die-ersten-schlsser-1400x874.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "P": {
-              "color": "#434343"
-            },
-            ".round-text": {
-              "color": "#742282"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
+          "title": "<b>Sicherheitsenergieschlösser</b><div><br></div>",
+          "text": "Sicherheitsenergieschloss ist die deutsche Übersetzung des englischen Begriffes \"safety energy lock\" Auch im Englischen ist dies ein Kunstwort. Mary Burmeister hat es geschaffen. Mary Burmeister ist die Frau, die in der zweiten Hälfte des letzten Jahrhunderts Jin Shin Jyutsu von Japan in den Westen gebracht hat. Nach Jahren des Studiums begann sie es zu verbreiten und zu &nbsp;lehren.&nbsp;<br>  <br>Sie mußte um Mißverständnisse zu vermeiden für viele eigentlich in westlichen Sprachen nicht vorhandene Begriffe neue Bezeichnungen entwickeln. So auch Sichherheitsenergieschloss.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-6",
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-12",
           "_params": {
-            "iconsBorder": true,
-            "iconsColor": "#434343",
-            "iconsNumber": "one",
-            "imageSize": 50,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "containerColor1": "#094587",
             "containerColor2": "#3adcdc",
-            "paddingTop": 1,
-            "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
-            "bgColor": "#3adcdc",
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_6.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/12-11-3-1400x1055.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br><div><br></div>",
+          "text": "<br>Ein schwieriges Wort aber es beschreibt, was sie sind: Es sind Felder die aus Sicherheitsgründen, also wenn Körper oder Geist in Mitleidenschaft gezogen werden,  sich verschliessen. Sie verschliessen sich  um den Prozess des Schädigens zu unterbrechen. <br><br>Deswegen ist eine Bezeichnungs-Variante für diesen Vorgang auch \"Vitalschutz\" . Die wichtigsten , die vitalen Funktionen von Körper , Geist und Seele werden durch die Sicherheitsenergieschlösser geschüzt.<br>  <br>In jedem Menschen sind jeweils rechts und links 26 Sicherheitsenergieschlösser paarig angelegt,  also insgesamt 52.  Jedes der  Schlösser oder Felder hat bestimmte Aufgaben und Qualitäten, hat bestimmte Impulse die von ihm ausgehen.   Deswegen werden hier  Sicherheitsenergieschlösser der Einfachheit halber Impulsfelder genannt.  Weil sie in diesen Qualitäten jeweils die Aufseher, Betreuer oder Meister sind kann man sie auch als Meisterfelder oder Meisterpunkte bezeichnen.&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-13",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_7.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fuesse-6-7-1400x1141.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br><div><br></div>",
+          "text": "<br><br>Die Heilwirkung ergibt sich aus dem Halten, dem Berühren dieser Felder  . Das Entscheidende ist das Halten, das Berühren, nicht das Wissen in erster Linie.  Das Wissen kann perfekt sein, aber ohne das Halten, das  Berühren bleibt es nahezu wirkungslos. Dies gilt insbesondere für einen stark in Mitleidenschaft  gezogenen Körper, Geist oder die Seele.&nbsp;<br><br>Sobald eine Hand in den Bereich eines Impulsfeldes gelegt wird beginnt der Prozeß des Öffnens dieses Feldes. &nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-14",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_7.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fuesse-6-7-1400x1141.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br><div><br></div>",
+          "text": "<br><br>Um dies aber im Körper wirksam und spürbar werden zu lassen wird in der Regel ein Griff mindestens 2-3 Minuten gehalten.  Man kann dies aber auch bis zu einer knappen halben Stunde ausdehnen. Normalerweise geht man davon aus daß eine Sitzung etwa eine Stunde nicht überschreitet. Für die Selbsthilfe, also das Halten der  Griffe am eigenen Körper gibt es keine Beschränkung.<br>Jeder Mensch kann die Selbsthilfe so lange und so viel und so oft anwenden wie er gerade möchte und für angemessen hält.  Es ist unmöglich zuviel Harmonie im Leben zu schaffen. Es gibt keine Obergrenze für Harmonie.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-y",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_4.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nur-schloesser-imit-26-1400x1411.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<b>Impulsfelder</b><div>Lage, Qualitäten , Zuständigkeit, Eigenschaften</div>",
+          "text": "Jedes der 26 Impulsfelder hat seinen eigenen Namen, <br> seine eigene Zahl, <br> seine spezifische Lage im Körper , <br> seine eigenen Qualitäten, <br> seine Zuständigkeiten für bestimmte Regionen  des Körper , <br>für bestimmte Funktionen in Geist und Seele, <br>seine spezifische Farbbeziehung  und <br>seine spezifischen Eigenschaften .&nbsp;<br><br>Die wichtigsten Informationen , vor allem die für die Selbsthilfe und das Kennenlernen der Impulsfelder wesentlichen sind in den Postern zusammengefasst<br>Die Impulsfelder haben bei allen Menschen die gleichen Qualitäten und Merkmale, &nbsp;sie liegen auch bei allen Menschen an fast den gleichen Stellen .<br>Allerdings können Impulsfelder  im Körper  etwas \"wandern\".&nbsp;<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-z",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_5.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/obenkopf-die-ersten-schlsser-1400x874.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "",
+          "text": "Es ist gut die Lage der Felder zu kennen, aber niemand muss sich Sorgen machen  ob er das Feld auch \"trift\". &nbsp;Impulsfelder &nbsp;sind ziemlich  groß. Bei jedem Menschen etwa so groß wie seine Handinnenfläche.  Und sie sind dreidimensional. Also in Wirklichkeit sind sie kugelförmige  Gebilde.<br>Man kann sie also kaum &nbsp;verfehlen.<br>Wenn beimHalten die Finger oder Hände innerhalb dieses Radius liegen, &nbsp;wird die Wirkung gestartet.<br><br>Ja, das Zentrum und auch  das Wirkungszentrum liegt in der Mitte der Kugel oder des Ovals, aber der Unterschied zwischen Zentrum und Aussenbereich kann vernachlässigt werden solange sich der Kontakt mit der Hand im Wirkungsbereich befindet. <br>&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header6-10",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_5.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/obenkopf-die-ersten-schlsser-1400x874.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br>",
+          "text": "Impulsfelder  teilen sich bestimmte Aufgaben mit anderen Impulsfeldern. So ist zum Beispiel das Feld mit der Nummer 14, unterhalb des unteren Rippenbogens,  mit dem Namen \"Gleichgewicht, Nahrung, Anfang des Menschen\" zuständig für Verdauung, aber auch für die Funktionen der Lunge. <br><br>GLEICHZEITIG  hat  auch zum Beispiel das Feld Nr. 21,   mit dem Namen \"Tiefe Sicherheit , Entkommen aus geistiger Gefangenschaft\"  wichtige Funktionen für die Verdauung. Impulsfelder haben also spezifische Aufgaben, aber sie  verteilen sie auch untereinander.&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-v",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -277,103 +623,62 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showIcons": false
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/re-hueftbereich-1146x327.jpg",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/handinnen-re-thumbraw-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
             "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "Impulsfelder<br>Lage,  Qualitäten , Zuständigkeit, Eigenschaften",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
+          "title": "Das Öffnen von Impulsfeldern",
+          "text": "Impulsfelder können durch Berührung, durch das Auflegen von Händen oder Fingern geöffnet werden.<br><br>In der Regel werden zwei Impulsfelder zusammen gehalten<br><br>Will jemand zum Beispiel mehr Frieden und Freude in das Leben zurückbringen oder die Schilddrüse unterstützen bietet sich dafür das Impulsfeldfeld Nr. 22 an. Es hat den Namen \"Glücklich und Zufrieden -wo auch immer\". Es liegt in der Mitte unter dem Schlüsselbeinknochen. Besonders effektiv ist es jedoch jweils ZWEI Meisterschlösser zusammen zu halten. So könnte man zum Beispiel Nr. 22 zusammen mit der Nr.21 halten. Das wird schon helfen. <br><br>Impulsfelder können aber auch durch das Halten von Fingern und Fingerpositionen, sogenannten Mudras, geöffnet werden. Jedem Impulsfeld ist ein bestimmter Finger zugeordnet. Mehr dazu ist in dem Finger-Selbsthilfe Poster zu finden.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
             }
-          },
-          "text1": "Jedes der 26 Impulsfelder hat seinen eigenen Namen, &nbsp;seine eigene Zahl, &nbsp;seine spezifische Lage im Körper , &nbsp;seine eigenen Qualitäten, &nbsp;seine Zuständigkeiten für bestimmte Regionen &nbsp;des Körper , für bestimmte Funktionen in Geist und Seele, seine spezifische Farbbeziehung &nbsp;und seine spezifischen Eigenschaften . <br><br>Diese sind im wesentlichen &nbsp;für alle Menschen gleich . <br><br>Allerdings können Impulsfelder &nbsp;im Körper &nbsp;etwas \"wandern\". <br><br>Es ist gut die Lage der Felder zu kennen, aber niemand muss sich sorgen machen &nbsp;ob er das Feld auch \"trift\" Sie sind ziemlich &nbsp;groß. Bei jedem Menschen etwas so groß wie seine Handinnenfläche. &nbsp;Und sie sind dreidimensional. Also in Wirklichkeit sind sie kugelförmige &nbsp;Gebilde.<br> <br>Wenn beimHalten die Finger oder Hände innerhalb dieses Radius liegen wird die Wirkung gestartet.<br><br>Ja, das Zentrum und auch &nbsp;das Wirkungszentrum liegt in der Mitte der Kugel oder des Ovals, aber der Unterschied zwischen Zentrum und Aussenbereich kann vernachlässigt werden solange sich der Kontakt mit der Hand im Wirkungsbereich befindet.&nbsp;<br><br>&nbsp;Impulsfelder &nbsp;teilen sich bestimmte Aufgaben mit anderen Impulsfeldern. So ist zum Beispiel das Feld mit der Nummer 14, unterhalb des unteren Rippenbogens, &nbsp;mit dem Namen \"Gleichgewicht, Nahrung, Anfang des Menschen\" zuständig für Verdauung, aber auch für die Funktionen der Lunge. <br><br>GLEICHZEITIG &nbsp;hat &nbsp;auch zum Beispiel das Feld Nr. 21, &nbsp; mit dem Namen \"Tiefe Sicherheit , Entkommen aus geistiger Gefangenschaft\" &nbsp;wichtige Funktionen für die Verdauung. Impulsfelder haben also spezifische Aufgaben, aber sie &nbsp;verteilen sie auch untereinander.&nbsp;",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "timer",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+          }
         },
         {
-          "subtitle1": "Awesome",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "subtitle2": "Awesome",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "subtitle3": "Awesome",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "subtitle4": "Awesome",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features22",
+          "_name": "header6",
           "_styles": {
-            ".card .mbr-iconfont": {
-              "background": "#6ed9be",
-              "border-color": "#6ed9be"
+            "P": {
+              "font-size": "24px"
             },
-            ".heading-title": {
-              "font-size": "48px",
-              "color": "#fffffd"
-            },
-            ".card-title": {
-              "color": "#fffffd"
-            },
-            ".card-text": {
-              "color": "#fffffd"
+            "H3": {
+              "font-size": "46px"
             }
           },
-          "_anchor": "features22-2",
+          "_anchor": "header6-w",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "iconsBgColor": "#6ed9be",
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "containerColor1": "#094587",
             "containerColor2": "#3adcdc",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_4.jpg",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -381,73 +686,91 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#616161",
-            "showHeading": true,
-            "contentAlign": "center",
+            "overlayColor": "#fff",
+            "inverse": false,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
-            "columns": "4"
+            "showArrow": false
           },
-          "title": "Das Öffnen von Meisterfeldern",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
-          "title1": "Impulsfelder können durch Berührung, durch das Auflegen von Händen oder Fingern geöffnet werden.",
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "hand",
-              "family": "iconsMind",
+          "media": {
+            "image": {
               "active": true,
-              "link": "Poster.html",
-              "color": "#ffffff",
-              "newWindow": false
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nur-schloesser-imit-26-1400x1411.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
-          "title2": "In der Regel werden zwei Impulsfelder zusammen gehalten",
-          "text2": "Will jemand zum Beispiel mehr Frieden und Freude in das Leben zurückbringen oder die  Schilddrüse unterstützen bietet sich dafür das Impulsfeldfeld Nr. 22 an. Es hat den Namen \"Glücklich und Zufrieden -wo auch immer\".  Es liegt in der Mitte unter dem Schlüsselbeinknochen. Besonders effektiv ist es jedoch jweils ZWEI Meisterschlösser zusammen zu halten. So könnte man zum Beispiel Nr. 22 zusammen mit der Nr.21 halten. Das wird schon helfen. &nbsp;",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "box",
-              "family": "iconsMind",
-              "active": true,
-              "link": "Poster.html",
-              "color": "#ffffff",
-              "newWindow": false
+          "title": "Bestimmte Kombinationen sind besonders effektiv&nbsp;",
+          "text": "Nun haben sich  bestimmte Kombinationen welches Impuslfeld zusammen mit welchem anderen &nbsp;gehalten wird, als BESONDERS effektiv und wirksam herausgestellt.<br> <br>Eine der effektivsten Kombinationen für das Impulsfeld Nr. 22 zum Beispiel ist die linke Hand auf das Feld Nr. 22 zu legen und gleichzeitig die rechte Hand auf das Feld Nr. 3. Diese Kombinationen werden oft als Quickies, Selbsthilfegriffe oder Ankergriffe bezeichnet &nbsp; &nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
             }
           },
-          "title3": "Bestimmte Kombinationen sind besonders effektiv&nbsp;",
-          "text3": "Nun haben sich &nbsp;bestimmte Kombinationen als BESONDERS effektiv und wirksam herausgestellt. Eine der effektivsten Kombinationen für das Impulsfeld Nr. 22  zum Beispiel ist die linke Hand auf das Feld Nr. 22 zu legen und gleichzeitig die rechte Hand auf das Feld Nr. 3.&nbsp;<br>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "child",
-              "family": "FontAwesome",
+          "_anchor": "header6-x",
+          "_params": {
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Dokumente%20und%20Einstellungen/HW/Lokale%20Einstellungen/Anwendungsdaten/Mobirise.com/Mobirise/projectData/header3_4.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
               "active": true,
-              "link": "Poster.html",
-              "color": "#fff",
-              "newWindow": false
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nur-schloesser-imit-26-1400x1411.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
-          "title4": "Selbsthilfe",
-          "text4": "Die meisten dieser besonders effektiven Kombinationen kann man an seinem eigenen Körper halten . Also können sie zur Selbsthilfe eingesetzt werden. &nbsp;Die Selbsthilfe ist &nbsp;der eigentliche Vorteil der Impulsfelder und des Jin Shin Jyutsu. <br><br>Der &nbsp;Begründer des neuzeitlichen Jin Shin Jyutsu antwortete auf die Frage<br><br>\"Was ist Jin Shin Jyutsu ?\" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"Jin Shin Jyutsu &nbsp;ist SELBSTHILFE\"<br><br>Die Poster sind daher excellent für das Erlernen der Impulsfelder und ihrer Kombinationen für die Selbsthilfe geeignet. Das ist ihr Focus.",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "firewall-on",
-              "family": "icon54",
-              "active": true,
-              "link": "Poster.html",
-              "color": "#fff",
-              "newWindow": false
-            }
-          }
+          "title": "Selbsthilfe",
+          "text": "Die meisten dieser besonders effektiven Kombinationen kann man an seinem eigenen Körper halten . Also können sie zur Selbsthilfe eingesetzt werden.  Die Selbsthilfe ist  der eigentliche Vorteil der Impulsfelder und des Jin Shin Jyutsu. <br><br>Der  Begründer des neuzeitlichen Jin Shin Jyutsu , der Japaner Jiro Murai, beantwortete die Frage<br><br>\"Was ist Jin Shin Jyutsu ?\"<br>mit <br>&nbsp;\"Jin Shin Jyutsu  ist SELBSTHILFE\"<br><br>Der Focus der Poster &nbsp;ist die Selbsthilfe. &nbsp;Sie sind excellent für das Präsentieren und Erlernen der Impulsfelder und ihrer Kombinationen für die Selbsthilfe geeignet.<br><span style=\"line-height: 1.5;\">&nbsp;&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_tags": [
@@ -1522,9 +1845,9 @@
           "_params": {
             "iconsBorder": true,
             "iconsColor": "#ffffff",
-            "imageSize": 50,
+            "imageSize": "83",
             "iconsNumber": "three",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "paddingTop": "2",
             "paddingBottom": 1,
             "parallax": false,
@@ -1638,9 +1961,9 @@
           "_params": {
             "iconsBorder": true,
             "iconsColor": "#ffffff",
-            "imageSize": 50,
+            "imageSize": "83",
             "iconsNumber": "three",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "paddingTop": "2",
             "paddingBottom": 1,
             "parallax": false,
@@ -1655,7 +1978,7 @@
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#fff",
-            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15002.jpg",
+            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15004.jpg",
             "showTitle": true,
             "showIcons": true,
             "showText": true
@@ -1754,9 +2077,9 @@
           "_params": {
             "iconsBorder": true,
             "iconsColor": "#ffffff",
-            "imageSize": 50,
+            "imageSize": "83",
             "iconsNumber": "two",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "paddingTop": "2",
             "paddingBottom": 1,
             "parallax": false,
@@ -1771,7 +2094,7 @@
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#fff",
-            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15002.jpg",
+            "containerImg": "@PROJECT_PATH@/assets/images/hwtest-2-2000x15004.jpg",
             "showTitle": true,
             "showIcons": true,
             "showText": true

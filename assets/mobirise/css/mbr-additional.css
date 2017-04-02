@@ -585,44 +585,65 @@ a:hover {
   text-align: center;
   font-size: 36px;
 }
-#content5-1 .mbr-section-title,
-#content5-1 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
+#header6-11 P {
+  font-size: 24px;
 }
-#content5-1 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
+#header6-11 H3 {
+  font-size: 46px;
 }
-#content5-1 .mbr-table-cell {
-  vertical-align: middle;
+#header6-12 P {
+  font-size: 24px;
 }
-#content5-1 .heading-title {
-  font-size: 48px;
+#header6-12 H3 {
+  font-size: 46px;
 }
-#msg-box4-6 H1 {
-  color: #fffffd;
-  font-size: 48px;
+#header6-13 P {
+  font-size: 24px;
 }
-#msg-box4-6 P {
-  color: #434343;
+#header6-13 H3 {
+  font-size: 46px;
 }
-#msg-box4-6 .round-text {
-  color: #742282;
+#header6-14 P {
+  font-size: 24px;
 }
-#features22-2 .card .mbr-iconfont {
-  background: #6ed9be;
-  border-color: #6ed9be;
+#header6-14 H3 {
+  font-size: 46px;
 }
-#features22-2 .heading-title {
-  font-size: 48px;
-  color: #fffffd;
+#header6-y P {
+  font-size: 24px;
 }
-#features22-2 .card-title {
-  color: #fffffd;
+#header6-y H3 {
+  font-size: 46px;
 }
-#features22-2 .card-text {
-  color: #fffffd;
+#header6-z P {
+  font-size: 24px;
+}
+#header6-z H3 {
+  font-size: 46px;
+}
+#header6-10 P {
+  font-size: 24px;
+}
+#header6-10 H3 {
+  font-size: 46px;
+}
+#header6-v P {
+  font-size: 24px;
+}
+#header6-v H3 {
+  font-size: 46px;
+}
+#header6-w P {
+  font-size: 24px;
+}
+#header6-w H3 {
+  font-size: 46px;
+}
+#header6-x P {
+  font-size: 24px;
+}
+#header6-x H3 {
+  font-size: 46px;
 }
 #footer2-q .footer-list {
   color: #74a3c7;

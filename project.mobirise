@@ -233,7 +233,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/obenkopf-die-ersten-schlsser-1400x874.png",
+              "src": "@PROJECT_PATH@/assets/images/1-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -291,7 +291,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/12-11-3-1400x1055.png",
+              "src": "@PROJECT_PATH@/assets/images/oval-die-26-1400x819.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -349,7 +349,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fuesse-6-7-1400x1141.png",
+              "src": "@PROJECT_PATH@/assets/images/14-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -407,7 +407,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fuesse-6-7-1400x1141.png",
+              "src": "@PROJECT_PATH@/assets/images/18-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -465,7 +465,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nur-schloesser-imit-26-1400x1411.png",
+              "src": "@PROJECT_PATH@/assets/images/8-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -523,7 +523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/obenkopf-die-ersten-schlsser-1400x874.png",
+              "src": "@PROJECT_PATH@/assets/images/becken-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -581,7 +581,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/obenkopf-die-ersten-schlsser-1400x874.png",
+              "src": "@PROJECT_PATH@/assets/images/6-und-7-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -603,6 +603,14 @@
             "Theme"
           ],
           "_name": "header6",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
           "_anchor": "header6-v",
           "_params": {
             "imageSize": "30",
@@ -646,15 +654,7 @@
           },
           "title": "Das Öffnen von Impulsfeldern",
           "text": "Impulsfelder können durch Berührung, durch das Auflegen von Händen oder Fingern geöffnet werden.<br><br>In der Regel werden zwei Impulsfelder zusammen gehalten<br><br>Will jemand zum Beispiel mehr Frieden und Freude in das Leben zurückbringen oder die Schilddrüse unterstützen bietet sich dafür das Impulsfeldfeld Nr. 22 an. Es hat den Namen \"Glücklich und Zufrieden -wo auch immer\". Es liegt in der Mitte unter dem Schlüsselbeinknochen. Besonders effektiv ist es jedoch jweils ZWEI Meisterschlösser zusammen zu halten. So könnte man zum Beispiel Nr. 22 zusammen mit der Nr.21 halten. Das wird schon helfen. <br><br>Impulsfelder können aber auch durch das Halten von Fingern und Fingerpositionen, sogenannten Mudras, geöffnet werden. Jedem Impulsfeld ist ein bestimmter Finger zugeordnet. Mehr dazu ist in dem Finger-Selbsthilfe Poster zu finden.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            "P": {
-              "font-size": "24px"
-            },
-            "H3": {
-              "font-size": "46px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_tags": [
@@ -697,7 +697,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nur-schloesser-imit-26-1400x1411.png",
+              "src": "@PROJECT_PATH@/assets/images/21-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -755,7 +755,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nur-schloesser-imit-26-1400x1411.png",
+              "src": "@PROJECT_PATH@/assets/images/knie-beide-1400x1017.png",
               "link": "",
               "alt": "",
               "title": "",

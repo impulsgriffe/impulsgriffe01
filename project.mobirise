@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "meistergriffe-impulsgriffe-landing-01",
-    "currentPage": "index.html",
+    "currentPage": "impressum.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -20,7 +20,7 @@
         "isScrollToTopButton": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert-02.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/nur-die-beiden-figuren-die-griffe-halten-aus-dem-impg-logo-01-als-jpg-01-128x62.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
@@ -917,7 +917,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert.svg",
+              "src": "@PROJECT_PATH@/assets/images/nur-die-beiden-figuren-die-griffe-halten-aus-dem-impg-logo-01-als-png-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1203,7 +1203,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert.svg",
+              "src": "@PROJECT_PATH@/assets/images/nur-die-beiden-figuren-die-griffe-halten-aus-dem-impg-logo-01-als-png-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1441,7 +1441,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert.svg",
+              "src": "@PROJECT_PATH@/assets/images/nur-die-beiden-figuren-die-griffe-halten-aus-dem-impg-logo-01-als-png-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1641,7 +1641,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert.svg",
+              "src": "@PROJECT_PATH@/assets/images/nur-die-beiden-figuren-die-griffe-halten-aus-dem-impg-logo-01-als-png-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",

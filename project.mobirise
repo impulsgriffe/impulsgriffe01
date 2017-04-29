@@ -26,7 +26,8 @@
     "cookiesAlert": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 41,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -120,7 +121,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nur-das-grosse-i-von-impulsgriffe-logo-25-03-17-01-auf-20-prozent-reduziert.svg",
+              "src": "@PROJECT_PATH@/assets/images/nur-die-beiden-figuren-die-griffe-halten-aus-dem-impg-logo-01-als-png-261x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -175,7 +176,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/impulsgriffe-logo-quer-02-04-02-try-impulse-nur-konturen-01-ipulse-auf-3.svg",
+              "src": "@PROJECT_PATH@/assets/images/impg-logo-in-kreis-improvisional-as-29-04-17-07-alles-1-ebene-alles-pfade-gruppiert.svg",
               "link": "",
               "alt": "",
               "title": "",

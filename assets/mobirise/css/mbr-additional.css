@@ -931,6 +931,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-t .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-t .mbr-table-cell {
   vertical-align: middle;
 }
